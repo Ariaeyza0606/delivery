@@ -1,5 +1,5 @@
 # Diagrama Fluid
-**Se realizo un diagrama fluid sobre como hacer un delivery de comida**
+Esta es una prueba de un diagrama de flujo. Este diagrama describe la secuencia lógica para hacer un delivery. Este se basa en el diagrama de flujo realizado en clase y se muestra en una lista ordenada escrita en pseudocódigo que, además, se mostrará en una imagen como modelo gráfico del pseudocodigo.
 
 1. Inicio
 2. Coger el celular
